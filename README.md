@@ -1,6 +1,6 @@
 # Cloud Module Application
 
-This is an web application written in Python. It does things and we'd like help deploying it.
+This is an web application written in Python. It does things and we'd like help deploying it...
 
 ## Requirements and Developing locally
 
